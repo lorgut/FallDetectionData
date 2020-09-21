@@ -1,0 +1,110 @@
+{"info":{"name":"Fall","description":"DavideFalls","PersonID":"PersonID","accelS1":"accelS1","accelS2":"accelS2","TimeStamp":"TimeStamp"},"feeds":[
+  {
+    "PersonID": 1,
+    "accelS1": 10.00459353939132,
+    "accelS2": 9.98946660573157,
+    "TimeStamp": 9256
+  },
+  {
+    "PersonID": 1,
+    "accelS1": 10.26842112448581,
+    "accelS2": 10.90572592097703,
+    "TimeStamp": 9303
+  },
+  {
+    "PersonID": 1,
+    "accelS1": 9.91329430206034,
+    "accelS2": 10.21345249578869,
+    "TimeStamp": 9352
+  },
+  {
+    "PersonID": 1,
+    "accelS1": 31.5483388268191,
+    "accelS2": 9.89106760404812,
+    "TimeStamp": 9400
+  },
+  {
+    "PersonID": 1,
+    "accelS1": 27.7125867318859,
+    "accelS2": 33.9375273406033,
+    "TimeStamp": 9451
+  },
+  {
+    "PersonID": 1,
+    "accelS1": 25.3367992213874,
+    "accelS2": 15.547379977829,
+    "TimeStamp": 9499
+  },
+  {
+    "PersonID": 1,
+    "accelS1": 18.0007057895628,
+    "accelS2": 9.51096513478936,
+    "TimeStamp": 9550
+  },
+  {
+    "PersonID": 1,
+    "accelS1": 9.87323229512506,
+    "accelS2": 8.35320203903868,
+    "TimeStamp": 9596
+  },
+  {
+    "PersonID": 1,
+    "accelS1": 12.2547672818785,
+    "accelS2": 7.63792135593841,
+    "TimeStamp": 9646
+  },
+  {
+    "PersonID": 1,
+    "accelS1": 11.840686255167,
+    "accelS2": 4.42001195887522,
+    "TimeStamp": 9693
+  },
+  {
+    "PersonID": 1,
+    "accelS1": 9.84101611398567,
+    "accelS2": 10.3011662517465,
+    "TimeStamp": 9742
+  },
+  {
+    "PersonID": 1,
+    "accelS1": 9.84101611398567,
+    "accelS2": 8.41186192295736,
+    "TimeStamp": 9791
+  },
+  {
+    "PersonID": 1,
+    "accelS1": 10.5925674166809,
+    "accelS2": 8.3730903096131,
+    "TimeStamp": 9887
+  },
+  {
+    "PersonID": 1,
+    "accelS1": 30.0365059243148,
+    "accelS2": 2.50683609336184,
+    "TimeStamp": 9888
+  },
+  {
+    "PersonID": 1,
+    "accelS1": 26.6349232263452,
+    "accelS2": 18.9431911465863,
+    "TimeStamp": 9984
+  },
+  {
+    "PersonID": 1,
+    "accelS1": 11.5433524264184,
+    "accelS2": 12.2139582183418,
+    "TimeStamp": 9986
+  },
+  {
+    "PersonID": 1,
+    "accelS1": 12.7964860322864,
+    "accelS2": 6.38139557455107,
+    "TimeStamp": 10230
+  },
+  {
+    "PersonID": 1,
+    "accelS1": 9.49260329950641,
+    "accelS2": 9.77684011125783,
+    "TimeStamp": 10231
+  }
+]}
