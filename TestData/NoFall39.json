@@ -1,128 +1,128 @@
 {"info":{"name":"Fall","description":"DavideFalls","PersonID":"PersonID","accelS1":"accelS1","accelS2":"accelS2","TimeStamp":"TimeStamp"},"feeds":[
   {
-    "PersonID": 1,
-    "accelS1": 8.25699605573964,
-    "accelS2": 8.1360156290226,
-    "TimeStamp": 2916
+    "PersonID": 2,
+    "accelS1": 9.77405406822062,
+    "accelS2": 9.93299680415231,
+    "TimeStamp": 43279
   },
   {
-    "PersonID": 1,
-    "accelS1": 9.5036624944334,
-    "accelS2": 7.97866665257423,
-    "TimeStamp": 2967
+    "PersonID": 2,
+    "accelS1": 9.77405406822062,
+    "accelS2": 9.43974354513405,
+    "TimeStamp": 43281
   },
   {
-    "PersonID": 1,
-    "accelS1": 8.83020436785582,
-    "accelS2": 10.6573719776406,
-    "TimeStamp": 3014
+    "PersonID": 2,
+    "accelS1": 10.1006372536142,
+    "accelS2": 9.06671703542688,
+    "TimeStamp": 43282
   },
   {
-    "PersonID": 1,
-    "accelS1": 10.6320579056832,
-    "accelS2": 11.8905941262832,
-    "TimeStamp": 3063
+    "PersonID": 2,
+    "accelS1": 10.2870421656616,
+    "accelS2": 10.1382731103773,
+    "TimeStamp": 43329
   },
   {
-    "PersonID": 1,
-    "accelS1": 15.9400576631015,
-    "accelS2": 15.2436762659767,
-    "TimeStamp": 3112
+    "PersonID": 2,
+    "accelS1": 10.1882269680107,
+    "accelS2": 10.9834593007212,
+    "TimeStamp": 43331
   },
   {
-    "PersonID": 1,
-    "accelS1": 11.8815705363012,
-    "accelS2": 12.2071605251549,
-    "TimeStamp": 3160
+    "PersonID": 2,
+    "accelS1": 10.0294333068075,
+    "accelS2": 10.3820440137046,
+    "TimeStamp": 43377
   },
   {
-    "PersonID": 1,
-    "accelS1": 11.7091832889959,
-    "accelS2": 9.76744018902599,
-    "TimeStamp": 3209
+    "PersonID": 2,
+    "accelS1": 10.0294333068075,
+    "accelS2": 8.08875398753727,
+    "TimeStamp": 43377
   },
   {
-    "PersonID": 1,
-    "accelS1": 10.3059501152829,
-    "accelS2": 8.82628003102666,
-    "TimeStamp": 3260
+    "PersonID": 2,
+    "accelS1": 10.0640368778239,
+    "accelS2": 9.30156658757008,
+    "TimeStamp": 43379
   },
   {
-    "PersonID": 1,
-    "accelS1": 7.59140624044057,
-    "accelS2": 10.9324560785351,
-    "TimeStamp": 3311
+    "PersonID": 2,
+    "accelS1": 10.0640368778239,
+    "accelS2": 8.75426393562017,
+    "TimeStamp": 43426
   },
   {
-    "PersonID": 1,
-    "accelS1": 12.0000200971707,
-    "accelS2": 9.59199306363386,
-    "TimeStamp": 3356
+    "PersonID": 2,
+    "accelS1": 10.0640368778239,
+    "accelS2": 10.4985380680407,
+    "TimeStamp": 43427
   },
   {
-    "PersonID": 1,
-    "accelS1": 10.3648859409354,
-    "accelS2": 7.88119184149834,
-    "TimeStamp": 3404
+    "PersonID": 2,
+    "accelS1": 10.6756060149296,
+    "accelS2": 9.77604769572039,
+    "TimeStamp": 43474
   },
   {
-    "PersonID": 1,
-    "accelS1": 6.15528838913336,
-    "accelS2": 7.72528001370177,
-    "TimeStamp": 3453
+    "PersonID": 2,
+    "accelS1": 10.6756060149296,
+    "accelS2": 10.0736090447515,
+    "TimeStamp": 43475
   },
   {
-    "PersonID": 1,
-    "accelS1": 6.80859938651849,
-    "accelS2": 7.77910113786934,
-    "TimeStamp": 3501
+    "PersonID": 2,
+    "accelS1": 10.9633366612405,
+    "accelS2": 9.57920756566534,
+    "TimeStamp": 43476
   },
   {
-    "PersonID": 1,
-    "accelS1": 10.2753791247282,
-    "accelS2": 9.57275563428316,
-    "TimeStamp": 3551
+    "PersonID": 2,
+    "accelS1": 10.9633366612405,
+    "accelS2": 9.58157318968028,
+    "TimeStamp": 43524
   },
   {
-    "PersonID": 1,
-    "accelS1": 9.84482255519113,
-    "accelS2": 9.4599839690879,
-    "TimeStamp": 3599
+    "PersonID": 2,
+    "accelS1": 11.0308815342837,
+    "accelS2": 9.77735686939983,
+    "TimeStamp": 43525
   },
   {
-    "PersonID": 1,
-    "accelS1": 8.91444583355578,
-    "accelS2": 9.09384883492683,
-    "TimeStamp": 3648
+    "PersonID": 2,
+    "accelS1": 9.15526363646072,
+    "accelS2": 9.62246993247056,
+    "TimeStamp": 43573
   },
   {
-    "PersonID": 1,
-    "accelS1": 11.2367886948096,
-    "accelS2": 10.013376999659,
-    "TimeStamp": 3697
+    "PersonID": 2,
+    "accelS1": 9.15526363646072,
+    "accelS2": 9.52422178209853,
+    "TimeStamp": 43573
   },
   {
-    "PersonID": 1,
-    "accelS1": 15.2296387559719,
-    "accelS2": 17.3883571370156,
-    "TimeStamp": 3746
+    "PersonID": 2,
+    "accelS1": 10.418561774055,
+    "accelS2": 9.96582541278443,
+    "TimeStamp": 43574
   },
   {
-    "PersonID": 1,
-    "accelS1": 13.9960270799324,
-    "accelS2": 12.0393042648568,
-    "TimeStamp": 3795
+    "PersonID": 2,
+    "accelS1": 10.418561774055,
+    "accelS2": 10.900733218339,
+    "TimeStamp": 43622
   },
   {
-    "PersonID": 1,
-    "accelS1": 9.87315459737667,
-    "accelS2": 5.92346938776592,
-    "TimeStamp": 3843
+    "PersonID": 2,
+    "accelS1": 10.418561774055,
+    "accelS2": 9.33521373138291,
+    "TimeStamp": 43622
   },
   {
-    "PersonID": 1,
-    "accelS1": 8.15985044074339,
-    "accelS2": 16.1631948773316,
-    "TimeStamp": 3892
+    "PersonID": 2,
+    "accelS1": 9.6267394911621,
+    "accelS2": 11.3440296700996,
+    "TimeStamp": 43626
   }
 ]}
